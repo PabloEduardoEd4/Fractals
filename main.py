@@ -62,4 +62,3 @@ turtle.color('Orange')
 turtle.up()
 turtle.goto([0,-7])
 turtle.write("CS",move=False, align='center', font=("Arial", 100, "bold"))
-
